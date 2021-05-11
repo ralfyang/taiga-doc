@@ -1,3 +1,10 @@
+⚠️ Relocation warning
+=====================
+
+This repository has been relocated to [the new organization Kaleidos Ventures](https://github.com/kaleidos-ventures/taiga-doc/) where the team will continue developing Taiga. Please, follow us and contribute on the new location. New issues should be placed as well under the new Github organization.
+
+We haven't archived this repository yet because we want to keep the issues currently open, but it'll become inactive eventually and so it will be archived.
+
 # Taiga documentation source #
 
 [![Kaleidos Project](http://kaleidos.net/static/img/badge.png)](https://github.com/kaleidos "Kaleidos Project")
