@@ -6,6 +6,7 @@ This repository has been relocated to [the new organization Kaleidos Ventures](h
 We haven't archived this repository yet because we want to keep the issues currently open, but it'll become inactive eventually and so it will be archived.
 
 # Taiga documentation source #
+## Great Taiga
 
 [![Kaleidos Project](http://kaleidos.net/static/img/badge.png)](https://github.com/kaleidos "Kaleidos Project")
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/taiga/ "Managed with Taiga.io")
